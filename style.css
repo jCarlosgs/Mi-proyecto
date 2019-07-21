@@ -1,0 +1,47 @@
+body {
+  background-color: silver;
+  color: green;
+  font-family: arial
+}
+h1 {
+  color: red;
+}
+h2 {
+  color:blue;
+}
+em {
+  color: purple;
+}
+.Contactos {
+  background: gold;
+  border: 2px solid #333;
+  padding: 20px;
+  margin-bottom: 15px;
+  float: left;
+  width: 30%;
+}
+.Experiencias {
+  background: black;
+  border: 2px solid #333;
+  padding: 20px;
+  margin-bottom: 15px;
+  float: left;
+  width: 30%;
+}
+.Conocimientos {
+  color: yellow;
+  background: maroon;
+  border: 2px solid #333;
+  padding: 20px;
+  margin-bottom: 15px;
+  float: left;
+  width: 30%;
+}
+img {
+  width: 800px;
+  height: 900px;
+  float: left;
+}
+ul {
+  color:#A611EC;
+}
